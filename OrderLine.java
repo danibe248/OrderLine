@@ -69,7 +69,7 @@ class MyFrame extends JFrame {
 	private Font fontButton = new Font("Arial",Font.BOLD,24);
 	private Font fontButton2 = new Font("Arial",Font.BOLD,20);
 	private Font buttonRead = new Font("Arial",Font.BOLD,17);
-	private Font printFont = new Font(Font.MONOSPACED,Font.BOLD,11);
+	private Font printFont = new Font(Font.MONOSPACED,Font.BOLD,12);
 	private IceCreamFrame icf;	
 	
 	private boolean firstSave = true;
